@@ -1,0 +1,4 @@
+# Requirements for Password Strength Checker
+
+# For colored CLI output
+colorama>=0.4.6
